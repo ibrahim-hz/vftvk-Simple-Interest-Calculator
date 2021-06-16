@@ -1,27 +1,4 @@
-body{
-    background-color: black;
-}
+body {background-color:tan;}
+h1{color:green;}
 
-#head{
-    font-family: sans-serif;
-    text-align: center;
-    opacity: 0.5;
-}
 
-#content-box{
-    display: block;
-    width: auto;
-    height: auto;
-    background-color: white;
-    margin-top: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
-    padding: 10px;
-    border: 2px solid maroon;
-    border-radius: 10px;
-}
-
-#main-box{
-    align-items: center;
-    padding: 50px;
-}
